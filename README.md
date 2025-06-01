@@ -17,7 +17,7 @@ This project is a machine learning-based application that predicts the winning p
 
 ## 🚀 Demo
 
-[Screenshot](images/project.PNG)
+![Screenshot](images/project.PNG)
 
 
 ---
