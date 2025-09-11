@@ -6,7 +6,7 @@ This project is a machine learning-based application that predicts the winning p
 
 ---
 
-## 📌 Features
+##  Features
 
 - Predict win probabilities based on match data
 - Simple, interactive front-end (if applicable)
@@ -15,19 +15,19 @@ This project is a machine learning-based application that predicts the winning p
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 ![Screenshot](images/project.PNG)
 
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Scikit-learn / XGBoost / Other ML libraries**
 - **Pandas, NumPy** – for data processing
-- **Streamlit / Flask / Django** (if applicable) – for web interface
+- **Streamlit**  – for web interface
 - **Matplotlib / Seaborn** (optional) – for data visualization
 
 ---
