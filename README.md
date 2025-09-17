@@ -28,7 +28,7 @@ This project is a machine learning-based application that predicts the winning p
 - **Scikit-learn / XGBoost / Other ML libraries**
 - **Pandas, NumPy** – for data processing
 - **Streamlit**  – for web interface
-- **Matplotlib / Seaborn** (optional) – for data visualization
+- **Matplotlib / Seaborn** – for data visualization
 
 ---
 
